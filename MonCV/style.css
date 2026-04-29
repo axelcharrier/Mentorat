@@ -1,5 +1,7 @@
 body{
     background-color: black;
+    front-family: Georgia;
+    front-size: 16px;
 }
 p{
     color: blue;
